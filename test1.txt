@@ -1,0 +1,10 @@
+ Volume in drive F is Learning
+ Volume Serial Number is F627-A0AA
+
+ Directory of F:\GitProjects
+
+23-05-2020  20:21    <DIR>          .
+23-05-2020  20:21    <DIR>          ..
+23-05-2020  20:21                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  38,688,059,392 bytes free
